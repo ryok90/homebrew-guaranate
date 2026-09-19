@@ -1,8 +1,8 @@
 class Guaranate < Formula
   desc "Developer-friendly macOS keep-awake CLI"
   homepage "https://github.com/ryok90/guaranate"
-  url "https://github.com/ryok90/guaranate/releases/download/v0.1.0/guaranate-0.1.0-macos-universal.tar.gz"
-  sha256 "e940bfd6d73e655813133ea5c13cde4695cfdf17351c111f3b78e2253cda172c"
+  url "https://github.com/ryok90/guaranate/releases/download/v0.2.0/guaranate-0.2.0-macos-universal.tar.gz"
+  sha256 "98d1e857365199a9d767c27a54b7f2511684a9502f59d7e2933b7801aaf27b1f"
   license "MIT"
 
   depends_on :macos
